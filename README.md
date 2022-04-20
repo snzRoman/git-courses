@@ -1,9 +1,9 @@
 # Valikov Roman
 
-### О себе
+### About me!
 
 * Physical engineer, junior java-programmer, 33 years old. 
-Currently, i'm studying on netology courses by java programmer specialization. 
+Currently, i'm studying on Netology courses by Java programmer specialization. 
 I want to change my profession in future.
 
 ### Skills
@@ -14,4 +14,4 @@ I want to change my profession in future.
 * Design patterns
 * English (Upper-Intermediate)
 
-! [Image](img/Image.jpeg)
+! [Image](img/Image.jpg)
