@@ -14,4 +14,4 @@ I want to change my profession in future.
 * Design patterns
 * English (Upper-Intermediate)
 
-! [Image](img/Image.jpg)
+![Image](img/Image.jpg)
